@@ -1,0 +1,10 @@
+{
+  "name": "abc-bower-test",
+  "version": "0.0.1",
+  "main": [
+      "mod.js",
+      "mod.less",
+      "mod.scss",
+      "mod.css"
+  ]
+}
